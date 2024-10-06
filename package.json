@@ -4,11 +4,11 @@
   "description": "First NodeJS in a CICD",
   "main": "index.js",
   "scripts": {
-    
+    ...
   },
   "repository": {
     "type": "git",
-    "url": "HelloWorldCICD"
+    "url": "https://github.com/RubberD/HelloWorldCICD/"
   },
   "author": "Lasse Storgaard",
   "license": "ISC"
