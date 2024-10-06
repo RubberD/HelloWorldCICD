@@ -4,7 +4,7 @@
   "description": "First NodeJS in a CICD",
   "main": "index.js",
   "scripts": {
-
+    
   },
   "repository": {
     "type": "git",
