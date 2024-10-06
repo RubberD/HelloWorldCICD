@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "First NodeJS in a CICD",
   "main": "index.js",
+  "scripts": {
+    "test": "echo 'hello world'"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/RubberD/HelloWorldCICD/"
